@@ -8,12 +8,21 @@ In this project, a company has developed a new web page in order to try and incr
 
 The project was conducted using a Jupyter workspace environment. The libraries used in this project is: 
 
-1- Numpy 
-2- pandas 
-3- random
-4- matplotlib 
-5- statsmodels.api
+  <ol>
+    <li>Numpy</li>
+    <li>pandas</li>
+    <li>random</li>
+    <li>matplotlib</li>
+    <li>statsmodels.api</li>
+  </ol>
+  
 
+The datasets used: 
+  <ol>
+    <li>[ab_data.csv](https://github.com/hindahmad431/Udacity_DAND_project3_Analyze_A_B_Test_Results/blob/main/ab_data.csv)</li>
+    <li>[countries.csv](https://github.com/hindahmad431/Udacity_DAND_project3_Analyze_A_B_Test_Results/blob/main/countries.csv)</li>
+  </ol>
 
 You can find the link to project below: 
 
+https://github.com/hindahmad431/Udacity_DAND_project3_Analyze_A_B_Test_Results/blob/main/Analyze_ab_test_results_notebook%20(1).ipynb
