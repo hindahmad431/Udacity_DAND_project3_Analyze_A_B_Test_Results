@@ -25,4 +25,4 @@ The datasets used:
 
 You can find the link to project below: 
 
-https://github.com/hindahmad431/Udacity_DAND_project3_Analyze_A_B_Test_Results/blob/main/Analyze_ab_test_results_notebook%20(1).ipynb
+https://github.com/hindahmad431/Udacity_DAND_project3_Analyze_A_B_Test_Results/blob/main/Analyze_ab_test_results_notebook.ipynb
